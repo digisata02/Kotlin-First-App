@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin First App</string>
+    <string name="reset">Reset</string>
+    <string name="text">0</string>
+</resources>
