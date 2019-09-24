@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity() {
             seekBarView.animate().setDuration(500).rotationXBy(360f).translationY(textViewY)
                                    
             // collaboration test
+            // this is another comment for collaboration test
         }
     }
 }
