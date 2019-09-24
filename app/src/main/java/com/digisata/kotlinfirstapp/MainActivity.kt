@@ -36,6 +36,8 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener { v ->
             seekBar.progress = 0
             seekBarView.animate().setDuration(500).rotationXBy(360f).translationY(textViewY)
+                                   
+            // collaboration test
         }
     }
 }
